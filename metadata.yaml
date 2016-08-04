@@ -1,0 +1,26 @@
+_repo: The-Witch-of-Atlas_4696
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shelley, Percy Bysshe
+    alias: Shelley, P. B. (Percy Bysshe)
+    birthdate: 1792
+    deathdate: 1822
+    gutenberg_agent_id: '1529'
+    url: http://www.gutenberg.org/2009/agents/1529
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Bysshe_Shelley
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+- GITenberg
+title: The Witch of Atlas
+url: http://www.gutenberg.org/ebooks/4696
